@@ -4,8 +4,8 @@
 <p align="left">
   🔭 I'm currently working on <b>Autonomous Multi-Robot Systems (ROS 2) & Python Pipelines</b><br>
   🌱 I'm exploring <b>AI, Machine Learning & Systems Engineering</b><br>
-  🌐 Portfolio & Projects: <a href="https://vahidgharib.github.io/vahidpiano/">vahidgharib.github.io</a><br>
-  ⚡ Fun fact: <i>Passionate classical pianist & music instructor.</i>
+  🌐 Portfolio & Projects: <a href="https://vahidgharib.github.io/Portfolio/">vahidgharib.github.io/Portfolio</a><br>
+  ⚡ Fun fact: <i>Passionate classical pianist.</i>
 </p>
 
 ---
